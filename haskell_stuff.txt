@@ -1,0 +1,6 @@
+# Fold
+  - Fold Right
+      foldr <function> <initial value> <collection>
+      e.g. foldr (+) 0 [1,2,3,4] => 10
+  - Fold Left
+      foldl <function> <initial value> <collection>
